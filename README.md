@@ -21,7 +21,7 @@ To run this game, you need Python installed, along with the `tkinter` library (u
 
 1.  **Clone the repository** (if you're hosting this on GitHub):
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/Asura-824/Rock-Paper-Scissor.git
     cd rock-paper-scissors-game
     ```
 
